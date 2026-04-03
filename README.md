@@ -1,6 +1,6 @@
 waybar-Dynamic-theme
 
-    A Kid's take on Absolute Flat Dynamic Island.
+A Kid's take on Absolute Flat Dynamic Island.
 
 How to Use
 Plaintext
@@ -11,6 +11,7 @@ Plaintext
 <details>
 <summary><b>點擊查看中文說明 (Chinese version)</b></summary>
 
+
 10 歲開發者的絕對扁平靈動島主題
 
 如何使用
@@ -20,3 +21,5 @@ Plaintext
 2. 重啟 Waybar 即可看到效果。
 
 </details>
+
+![Preview](www.jpg)
