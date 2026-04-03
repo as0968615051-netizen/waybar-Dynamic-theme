@@ -22,4 +22,4 @@ Plaintext
 
 </details>
 
-![Preview](www.jpg)
+![Preview](Screenshot Demo.png)
