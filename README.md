@@ -1,6 +1,6 @@
 waybar-Dynamic-theme
 
-A Kid's take on Absolute Flat Dynamic Island.
+A 10-year-old's take on Absolute Flat Dynamic Island for Waybar. 
 
 How to Use
 
